@@ -17,6 +17,7 @@ public class SwagTest extends BaseClass {
 		sendKeys(a.getPincode(), "600018");
 		clicks(a.getConti());
 		clicks(a.getFinish());
+		System.err.println("Order Plae is Doen");
 		
 		
 		
